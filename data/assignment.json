@@ -1,0 +1,194 @@
+[
+  {
+    "id": "C01",
+    "study": "春一",
+    "block": "B0",
+    "unit": "U00",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C02",
+    "study": "春一",
+    "block": "B0",
+    "unit": "U01",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C03",
+    "study": "春一",
+    "block": "B0",
+    "unit": "U01",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C04",
+    "study": "春一",
+    "block": "B1",
+    "unit": "U02",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C05",
+    "study": "春一",
+    "block": "B1",
+    "unit": "U02",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C06",
+    "study": "春一",
+    "block": "B1",
+    "unit": "U03",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C07",
+    "study": "春一",
+    "block": "B1",
+    "unit": "U03",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C08",
+    "study": "春一",
+    "block": "B2",
+    "unit": "U04",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C09",
+    "study": "春一",
+    "block": "B2",
+    "unit": "U04",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C10",
+    "study": "春一",
+    "block": "B2",
+    "unit": "U05",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C11",
+    "study": "春一",
+    "block": "B2",
+    "unit": "U05",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C12",
+    "study": "春一",
+    "block": "B0",
+    "unit": "U06",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C13",
+    "study": "春一",
+    "block": "B0",
+    "unit": "U06",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C14",
+    "study": "春一",
+    "block": "B0",
+    "unit": "U07",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C15",
+    "study": "春一",
+    "block": "B0",
+    "unit": "U07",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C16",
+    "study": "春一",
+    "block": "B1",
+    "unit": "U08",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C17",
+    "study": "春一",
+    "block": "B1",
+    "unit": "U08",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C18",
+    "study": "春一",
+    "block": "B1",
+    "unit": "U09",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C19",
+    "study": "春一",
+    "block": "B1",
+    "unit": "U09",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C20",
+    "study": "春一",
+    "block": "B2",
+    "unit": "U10",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C21",
+    "study": "春一",
+    "block": "B2",
+    "unit": "U10",
+    "first": "乐",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C22",
+    "study": "春一",
+    "block": "B2",
+    "unit": "U11",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C23",
+    "study": "春一",
+    "block": "B2",
+    "unit": "U11",
+    "first": "史",
+    "issued": "2027-02-20"
+  },
+  {
+    "id": "C24",
+    "study": "春一",
+    "block": "B0",
+    "unit": "U12",
+    "first": "乐",
+    "issued": "2027-02-20"
+  }
+]

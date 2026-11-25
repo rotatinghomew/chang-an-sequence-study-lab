@@ -1,0 +1,170 @@
+[
+  {
+    "id": "C01",
+    "school": "S2",
+    "setting": "混合",
+    "room": "H2",
+    "prior": false
+  },
+  {
+    "id": "C02",
+    "school": "S3",
+    "setting": "普通",
+    "room": "H3",
+    "prior": false
+  },
+  {
+    "id": "C03",
+    "school": "S4",
+    "setting": "混合",
+    "room": "H1",
+    "prior": false
+  },
+  {
+    "id": "C04",
+    "school": "S1",
+    "setting": "普通",
+    "room": "H2",
+    "prior": false
+  },
+  {
+    "id": "C05",
+    "school": "S2",
+    "setting": "混合",
+    "room": "H3",
+    "prior": true
+  },
+  {
+    "id": "C06",
+    "school": "S3",
+    "setting": "普通",
+    "room": "H1",
+    "prior": false
+  },
+  {
+    "id": "C07",
+    "school": "S4",
+    "setting": "混合",
+    "room": "H2",
+    "prior": false
+  },
+  {
+    "id": "C08",
+    "school": "S1",
+    "setting": "普通",
+    "room": "H3",
+    "prior": false
+  },
+  {
+    "id": "C09",
+    "school": "S2",
+    "setting": "混合",
+    "room": "H1",
+    "prior": false
+  },
+  {
+    "id": "C10",
+    "school": "S3",
+    "setting": "普通",
+    "room": "H2",
+    "prior": true
+  },
+  {
+    "id": "C11",
+    "school": "S4",
+    "setting": "混合",
+    "room": "H3",
+    "prior": false
+  },
+  {
+    "id": "C12",
+    "school": "S1",
+    "setting": "普通",
+    "room": "H1",
+    "prior": false
+  },
+  {
+    "id": "C13",
+    "school": "S2",
+    "setting": "混合",
+    "room": "H2",
+    "prior": false
+  },
+  {
+    "id": "C14",
+    "school": "S3",
+    "setting": "普通",
+    "room": "H3",
+    "prior": false
+  },
+  {
+    "id": "C15",
+    "school": "S4",
+    "setting": "混合",
+    "room": "H1",
+    "prior": true
+  },
+  {
+    "id": "C16",
+    "school": "S1",
+    "setting": "普通",
+    "room": "H2",
+    "prior": false
+  },
+  {
+    "id": "C17",
+    "school": "S2",
+    "setting": "混合",
+    "room": "H3",
+    "prior": false
+  },
+  {
+    "id": "C18",
+    "school": "S3",
+    "setting": "普通",
+    "room": "H1",
+    "prior": false
+  },
+  {
+    "id": "C19",
+    "school": "S4",
+    "setting": "混合",
+    "room": "H2",
+    "prior": false
+  },
+  {
+    "id": "C20",
+    "school": "S1",
+    "setting": "普通",
+    "room": "H3",
+    "prior": true
+  },
+  {
+    "id": "C21",
+    "school": "S2",
+    "setting": "混合",
+    "room": "H1",
+    "prior": false
+  },
+  {
+    "id": "C22",
+    "school": "S3",
+    "setting": "普通",
+    "room": "H2",
+    "prior": false
+  },
+  {
+    "id": "C23",
+    "school": "S4",
+    "setting": "混合",
+    "room": "H3",
+    "prior": false
+  },
+  {
+    "id": "C24",
+    "school": "S1",
+    "setting": "普通",
+    "room": "H1",
+    "prior": false
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P1",
+    "class_id": "C05",
+    "space": "东厅一",
+    "paired": "C06",
+    "seats": 24,
+    "state": "已开课",
+    "first": "史",
+    "recorded": "2027-03-25"
+  },
+  {
+    "id": "P2",
+    "class_id": "C06",
+    "space": "东厅二",
+    "paired": "C05",
+    "seats": 21,
+    "state": "未确认",
+    "first": null,
+    "recorded": "2027-03-26"
+  },
+  {
+    "id": "P3",
+    "class_id": "C11",
+    "space": "东厅二",
+    "paired": "C12",
+    "seats": 27,
+    "state": "已确认",
+    "first": "乐",
+    "recorded": "2027-03-25"
+  },
+  {
+    "id": "P4",
+    "class_id": "C12",
+    "space": "西厅二",
+    "paired": "C11",
+    "seats": 19,
+    "state": "未确认",
+    "first": null,
+    "recorded": "2027-03-26"
+  },
+  {
+    "id": "P5",
+    "class_id": "C23",
+    "space": "西厅一",
+    "paired": null,
+    "seats": 30,
+    "state": "未确认",
+    "first": null,
+    "recorded": "2027-03-27"
+  },
+  {
+    "id": "P6",
+    "class_id": "C20",
+    "space": "东厅一",
+    "paired": "C19",
+    "seats": 22,
+    "state": "未确认",
+    "first": null,
+    "recorded": "2027-03-27"
+  }
+]

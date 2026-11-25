@@ -1,0 +1,3458 @@
+[
+  {
+    "id": "V01-1-1",
+    "learner": "L01-1",
+    "class_id": "C01",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V01-1-2",
+    "learner": "L01-1",
+    "class_id": "C01",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V01-2-1",
+    "learner": "L01-2",
+    "class_id": "C01",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V01-2-2",
+    "learner": "L01-2",
+    "class_id": "C01",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V01-3-1",
+    "learner": "L01-3",
+    "class_id": "C01",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V01-3-2",
+    "learner": "L01-3",
+    "class_id": "C01",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V01-4-1",
+    "learner": "L01-4",
+    "class_id": "C01",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V01-4-2",
+    "learner": "L01-4",
+    "class_id": "C01",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V01-5-1",
+    "learner": "L01-5",
+    "class_id": "C01",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V01-5-2",
+    "learner": "L01-5",
+    "class_id": "C01",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V01-6-1",
+    "learner": "L01-6",
+    "class_id": "C01",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V01-6-2",
+    "learner": "L01-6",
+    "class_id": "C01",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V01-7-1",
+    "learner": "L01-7",
+    "class_id": "C01",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V01-7-2",
+    "learner": "L01-7",
+    "class_id": "C01",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V01-8-1",
+    "learner": "L01-8",
+    "class_id": "C01",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V01-8-2",
+    "learner": "L01-8",
+    "class_id": "C01",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V02-1-1",
+    "learner": "L02-1",
+    "class_id": "C02",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V02-1-2",
+    "learner": "L02-1",
+    "class_id": "C02",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V02-2-1",
+    "learner": "L02-2",
+    "class_id": "C02",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V02-2-2",
+    "learner": "L02-2",
+    "class_id": "C02",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V02-3-1",
+    "learner": "L02-3",
+    "class_id": "C02",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V02-3-2",
+    "learner": "L02-3",
+    "class_id": "C02",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V02-4-1",
+    "learner": "L02-4",
+    "class_id": "C02",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V02-4-2",
+    "learner": "L02-4",
+    "class_id": "C02",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V02-5-1",
+    "learner": "L02-5",
+    "class_id": "C02",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V02-5-2",
+    "learner": "L02-5",
+    "class_id": "C02",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V02-6-1",
+    "learner": "L02-6",
+    "class_id": "C02",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V02-6-2",
+    "learner": "L02-6",
+    "class_id": "C02",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V02-7-1",
+    "learner": "L02-7",
+    "class_id": "C02",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V02-7-2",
+    "learner": "L02-7",
+    "class_id": "C02",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V02-8-1",
+    "learner": "L02-8",
+    "class_id": "C02",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V02-8-2",
+    "learner": "L02-8",
+    "class_id": "C02",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V03-1-1",
+    "learner": "L03-1",
+    "class_id": "C03",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V03-1-2",
+    "learner": "L03-1",
+    "class_id": "C03",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V03-2-1",
+    "learner": "L03-2",
+    "class_id": "C03",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V03-2-2",
+    "learner": "L03-2",
+    "class_id": "C03",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V03-3-1",
+    "learner": "L03-3",
+    "class_id": "C03",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V03-3-2",
+    "learner": "L03-3",
+    "class_id": "C03",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V03-4-1",
+    "learner": "L03-4",
+    "class_id": "C03",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V03-4-2",
+    "learner": "L03-4",
+    "class_id": "C03",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V03-5-1",
+    "learner": "L03-5",
+    "class_id": "C03",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V03-5-2",
+    "learner": "L03-5",
+    "class_id": "C03",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V03-6-1",
+    "learner": "L03-6",
+    "class_id": "C03",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V03-6-2",
+    "learner": "L03-6",
+    "class_id": "C03",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V03-7-1",
+    "learner": "L03-7",
+    "class_id": "C03",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V03-7-2",
+    "learner": "L03-7",
+    "class_id": "C03",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V03-8-1",
+    "learner": "L03-8",
+    "class_id": "C03",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V03-8-2",
+    "learner": "L03-8",
+    "class_id": "C03",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V04-1-1",
+    "learner": "L04-1",
+    "class_id": "C04",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V04-1-2",
+    "learner": "L04-1",
+    "class_id": "C04",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V04-2-1",
+    "learner": "L04-2",
+    "class_id": "C04",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V04-2-2",
+    "learner": "L04-2",
+    "class_id": "C04",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V04-3-1",
+    "learner": "L04-3",
+    "class_id": "C04",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V04-3-2",
+    "learner": "L04-3",
+    "class_id": "C04",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V04-4-1",
+    "learner": "L04-4",
+    "class_id": "C04",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V04-4-2",
+    "learner": "L04-4",
+    "class_id": "C04",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V04-5-1",
+    "learner": "L04-5",
+    "class_id": "C04",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V04-5-2",
+    "learner": "L04-5",
+    "class_id": "C04",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V04-6-1",
+    "learner": "L04-6",
+    "class_id": "C04",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V04-6-2",
+    "learner": "L04-6",
+    "class_id": "C04",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V04-7-1",
+    "learner": "L04-7",
+    "class_id": "C04",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V04-7-2",
+    "learner": "L04-7",
+    "class_id": "C04",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V04-8-1",
+    "learner": "L04-8",
+    "class_id": "C04",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V04-8-2",
+    "learner": "L04-8",
+    "class_id": "C04",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V05-1-1",
+    "learner": "L05-1",
+    "class_id": "C05",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V05-1-2",
+    "learner": "L05-1",
+    "class_id": "C05",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V05-2-1",
+    "learner": "L05-2",
+    "class_id": "C05",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V05-2-2",
+    "learner": "L05-2",
+    "class_id": "C05",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V05-3-1",
+    "learner": "L05-3",
+    "class_id": "C05",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V05-3-2",
+    "learner": "L05-3",
+    "class_id": "C05",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V05-4-1",
+    "learner": "L05-4",
+    "class_id": "C05",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V05-4-2",
+    "learner": "L05-4",
+    "class_id": "C05",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V05-5-1",
+    "learner": "L05-5",
+    "class_id": "C05",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V05-5-2",
+    "learner": "L05-5",
+    "class_id": "C05",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V05-6-1",
+    "learner": "L05-6",
+    "class_id": "C05",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V05-6-2",
+    "learner": "L05-6",
+    "class_id": "C05",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V05-7-1",
+    "learner": "L05-7",
+    "class_id": "C05",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V05-7-2",
+    "learner": "L05-7",
+    "class_id": "C05",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V05-8-1",
+    "learner": "L05-8",
+    "class_id": "C05",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V05-8-2",
+    "learner": "L05-8",
+    "class_id": "C05",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V06-1-1",
+    "learner": "L06-1",
+    "class_id": "C06",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V06-1-2",
+    "learner": "L06-1",
+    "class_id": "C06",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V06-2-1",
+    "learner": "L06-2",
+    "class_id": "C06",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V06-2-2",
+    "learner": "L06-2",
+    "class_id": "C06",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V06-3-1",
+    "learner": "L06-3",
+    "class_id": "C06",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V06-3-2",
+    "learner": "L06-3",
+    "class_id": "C06",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V06-4-1",
+    "learner": "L06-4",
+    "class_id": "C06",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V06-4-2",
+    "learner": "L06-4",
+    "class_id": "C06",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V06-5-1",
+    "learner": "L06-5",
+    "class_id": "C06",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V06-5-2",
+    "learner": "L06-5",
+    "class_id": "C06",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V06-6-1",
+    "learner": "L06-6",
+    "class_id": "C06",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V06-6-2",
+    "learner": "L06-6",
+    "class_id": "C06",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V06-7-1",
+    "learner": "L06-7",
+    "class_id": "C06",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V06-7-2",
+    "learner": "L06-7",
+    "class_id": "C06",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V06-8-1",
+    "learner": "L06-8",
+    "class_id": "C06",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V06-8-2",
+    "learner": "L06-8",
+    "class_id": "C06",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V07-1-1",
+    "learner": "L07-1",
+    "class_id": "C07",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V07-1-2",
+    "learner": "L07-1",
+    "class_id": "C07",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V07-2-1",
+    "learner": "L07-2",
+    "class_id": "C07",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V07-2-2",
+    "learner": "L07-2",
+    "class_id": "C07",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V07-3-1",
+    "learner": "L07-3",
+    "class_id": "C07",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V07-3-2",
+    "learner": "L07-3",
+    "class_id": "C07",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V07-4-1",
+    "learner": "L07-4",
+    "class_id": "C07",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V07-4-2",
+    "learner": "L07-4",
+    "class_id": "C07",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V07-5-1",
+    "learner": "L07-5",
+    "class_id": "C07",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V07-5-2",
+    "learner": "L07-5",
+    "class_id": "C07",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V07-6-1",
+    "learner": "L07-6",
+    "class_id": "C07",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V07-6-2",
+    "learner": "L07-6",
+    "class_id": "C07",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V07-7-1",
+    "learner": "L07-7",
+    "class_id": "C07",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V07-7-2",
+    "learner": "L07-7",
+    "class_id": "C07",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V07-8-1",
+    "learner": "L07-8",
+    "class_id": "C07",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V07-8-2",
+    "learner": "L07-8",
+    "class_id": "C07",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V08-1-1",
+    "learner": "L08-1",
+    "class_id": "C08",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V08-1-2",
+    "learner": "L08-1",
+    "class_id": "C08",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V08-2-1",
+    "learner": "L08-2",
+    "class_id": "C08",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V08-2-2",
+    "learner": "L08-2",
+    "class_id": "C08",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V08-3-1",
+    "learner": "L08-3",
+    "class_id": "C08",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V08-3-2",
+    "learner": "L08-3",
+    "class_id": "C08",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V08-4-1",
+    "learner": "L08-4",
+    "class_id": "C08",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V08-4-2",
+    "learner": "L08-4",
+    "class_id": "C08",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V08-5-1",
+    "learner": "L08-5",
+    "class_id": "C08",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V08-5-2",
+    "learner": "L08-5",
+    "class_id": "C08",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V08-6-1",
+    "learner": "L08-6",
+    "class_id": "C08",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V08-6-2",
+    "learner": "L08-6",
+    "class_id": "C08",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V08-7-1",
+    "learner": "L08-7",
+    "class_id": "C08",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V08-7-2",
+    "learner": "L08-7",
+    "class_id": "C08",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V08-8-1",
+    "learner": "L08-8",
+    "class_id": "C08",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V08-8-2",
+    "learner": "L08-8",
+    "class_id": "C08",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V09-1-1",
+    "learner": "L09-1",
+    "class_id": "C09",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V09-1-2",
+    "learner": "L09-1",
+    "class_id": "C09",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V09-2-1",
+    "learner": "L09-2",
+    "class_id": "C09",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V09-2-2",
+    "learner": "L09-2",
+    "class_id": "C09",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V09-3-1",
+    "learner": "L09-3",
+    "class_id": "C09",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V09-3-2",
+    "learner": "L09-3",
+    "class_id": "C09",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V09-4-1",
+    "learner": "L09-4",
+    "class_id": "C09",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V09-4-2",
+    "learner": "L09-4",
+    "class_id": "C09",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V09-5-1",
+    "learner": "L09-5",
+    "class_id": "C09",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V09-5-2",
+    "learner": "L09-5",
+    "class_id": "C09",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V09-6-1",
+    "learner": "L09-6",
+    "class_id": "C09",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V09-6-2",
+    "learner": "L09-6",
+    "class_id": "C09",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V09-7-1",
+    "learner": "L09-7",
+    "class_id": "C09",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V09-7-2",
+    "learner": "L09-7",
+    "class_id": "C09",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V09-8-1",
+    "learner": "L09-8",
+    "class_id": "C09",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V09-8-2",
+    "learner": "L09-8",
+    "class_id": "C09",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V10-1-1",
+    "learner": "L10-1",
+    "class_id": "C10",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V10-1-2",
+    "learner": "L10-1",
+    "class_id": "C10",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V10-2-1",
+    "learner": "L10-2",
+    "class_id": "C10",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V10-2-2",
+    "learner": "L10-2",
+    "class_id": "C10",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V10-3-1",
+    "learner": "L10-3",
+    "class_id": "C10",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V10-3-2",
+    "learner": "L10-3",
+    "class_id": "C10",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V10-4-1",
+    "learner": "L10-4",
+    "class_id": "C10",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V10-4-2",
+    "learner": "L10-4",
+    "class_id": "C10",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V10-5-1",
+    "learner": "L10-5",
+    "class_id": "C10",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V10-5-2",
+    "learner": "L10-5",
+    "class_id": "C10",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V10-6-1",
+    "learner": "L10-6",
+    "class_id": "C10",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V10-6-2",
+    "learner": "L10-6",
+    "class_id": "C10",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V10-7-1",
+    "learner": "L10-7",
+    "class_id": "C10",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V10-7-2",
+    "learner": "L10-7",
+    "class_id": "C10",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V10-8-1",
+    "learner": "L10-8",
+    "class_id": "C10",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V10-8-2",
+    "learner": "L10-8",
+    "class_id": "C10",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V11-1-1",
+    "learner": "L11-1",
+    "class_id": "C11",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V11-1-2",
+    "learner": "L11-1",
+    "class_id": "C11",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V11-2-1",
+    "learner": "L11-2",
+    "class_id": "C11",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V11-2-2",
+    "learner": "L11-2",
+    "class_id": "C11",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V11-3-1",
+    "learner": "L11-3",
+    "class_id": "C11",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V11-3-2",
+    "learner": "L11-3",
+    "class_id": "C11",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V11-4-1",
+    "learner": "L11-4",
+    "class_id": "C11",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V11-4-2",
+    "learner": "L11-4",
+    "class_id": "C11",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V11-5-1",
+    "learner": "L11-5",
+    "class_id": "C11",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V11-5-2",
+    "learner": "L11-5",
+    "class_id": "C11",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V11-6-1",
+    "learner": "L11-6",
+    "class_id": "C11",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V11-6-2",
+    "learner": "L11-6",
+    "class_id": "C11",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V11-7-1",
+    "learner": "L11-7",
+    "class_id": "C11",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V11-7-2",
+    "learner": "L11-7",
+    "class_id": "C11",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V11-8-1",
+    "learner": "L11-8",
+    "class_id": "C11",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V11-8-2",
+    "learner": "L11-8",
+    "class_id": "C11",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V12-1-1",
+    "learner": "L12-1",
+    "class_id": "C12",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V12-1-2",
+    "learner": "L12-1",
+    "class_id": "C12",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V12-2-1",
+    "learner": "L12-2",
+    "class_id": "C12",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V12-2-2",
+    "learner": "L12-2",
+    "class_id": "C12",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V12-3-1",
+    "learner": "L12-3",
+    "class_id": "C12",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V12-3-2",
+    "learner": "L12-3",
+    "class_id": "C12",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V12-4-1",
+    "learner": "L12-4",
+    "class_id": "C12",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V12-4-2",
+    "learner": "L12-4",
+    "class_id": "C12",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V12-5-1",
+    "learner": "L12-5",
+    "class_id": "C12",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V12-5-2",
+    "learner": "L12-5",
+    "class_id": "C12",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V12-6-1",
+    "learner": "L12-6",
+    "class_id": "C12",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V12-6-2",
+    "learner": "L12-6",
+    "class_id": "C12",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V12-7-1",
+    "learner": "L12-7",
+    "class_id": "C12",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V12-7-2",
+    "learner": "L12-7",
+    "class_id": "C12",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V12-8-1",
+    "learner": "L12-8",
+    "class_id": "C12",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V12-8-2",
+    "learner": "L12-8",
+    "class_id": "C12",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V13-1-1",
+    "learner": "L13-1",
+    "class_id": "C13",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V13-1-2",
+    "learner": "L13-1",
+    "class_id": "C13",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V13-2-1",
+    "learner": "L13-2",
+    "class_id": "C13",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V13-2-2",
+    "learner": "L13-2",
+    "class_id": "C13",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V13-3-1",
+    "learner": "L13-3",
+    "class_id": "C13",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V13-3-2",
+    "learner": "L13-3",
+    "class_id": "C13",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V13-4-1",
+    "learner": "L13-4",
+    "class_id": "C13",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V13-4-2",
+    "learner": "L13-4",
+    "class_id": "C13",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V13-5-1",
+    "learner": "L13-5",
+    "class_id": "C13",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V13-5-2",
+    "learner": "L13-5",
+    "class_id": "C13",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V13-6-1",
+    "learner": "L13-6",
+    "class_id": "C13",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V13-6-2",
+    "learner": "L13-6",
+    "class_id": "C13",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V13-7-1",
+    "learner": "L13-7",
+    "class_id": "C13",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V13-7-2",
+    "learner": "L13-7",
+    "class_id": "C13",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V13-8-1",
+    "learner": "L13-8",
+    "class_id": "C13",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V13-8-2",
+    "learner": "L13-8",
+    "class_id": "C13",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V14-1-1",
+    "learner": "L14-1",
+    "class_id": "C14",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V14-1-2",
+    "learner": "L14-1",
+    "class_id": "C14",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V14-2-1",
+    "learner": "L14-2",
+    "class_id": "C14",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V14-2-2",
+    "learner": "L14-2",
+    "class_id": "C14",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V14-3-1",
+    "learner": "L14-3",
+    "class_id": "C14",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V14-3-2",
+    "learner": "L14-3",
+    "class_id": "C14",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V14-4-1",
+    "learner": "L14-4",
+    "class_id": "C14",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V14-4-2",
+    "learner": "L14-4",
+    "class_id": "C14",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V14-5-1",
+    "learner": "L14-5",
+    "class_id": "C14",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V14-5-2",
+    "learner": "L14-5",
+    "class_id": "C14",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V14-6-1",
+    "learner": "L14-6",
+    "class_id": "C14",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V14-6-2",
+    "learner": "L14-6",
+    "class_id": "C14",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V14-7-1",
+    "learner": "L14-7",
+    "class_id": "C14",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V14-7-2",
+    "learner": "L14-7",
+    "class_id": "C14",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V14-8-1",
+    "learner": "L14-8",
+    "class_id": "C14",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V14-8-2",
+    "learner": "L14-8",
+    "class_id": "C14",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V15-1-1",
+    "learner": "L15-1",
+    "class_id": "C15",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V15-1-2",
+    "learner": "L15-1",
+    "class_id": "C15",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V15-2-1",
+    "learner": "L15-2",
+    "class_id": "C15",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V15-2-2",
+    "learner": "L15-2",
+    "class_id": "C15",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V15-3-1",
+    "learner": "L15-3",
+    "class_id": "C15",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V15-3-2",
+    "learner": "L15-3",
+    "class_id": "C15",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V15-4-1",
+    "learner": "L15-4",
+    "class_id": "C15",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V15-4-2",
+    "learner": "L15-4",
+    "class_id": "C15",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V15-5-1",
+    "learner": "L15-5",
+    "class_id": "C15",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V15-5-2",
+    "learner": "L15-5",
+    "class_id": "C15",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V15-6-1",
+    "learner": "L15-6",
+    "class_id": "C15",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V15-6-2",
+    "learner": "L15-6",
+    "class_id": "C15",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V15-7-1",
+    "learner": "L15-7",
+    "class_id": "C15",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V15-7-2",
+    "learner": "L15-7",
+    "class_id": "C15",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V15-8-1",
+    "learner": "L15-8",
+    "class_id": "C15",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V15-8-2",
+    "learner": "L15-8",
+    "class_id": "C15",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V16-1-1",
+    "learner": "L16-1",
+    "class_id": "C16",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V16-1-2",
+    "learner": "L16-1",
+    "class_id": "C16",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V16-2-1",
+    "learner": "L16-2",
+    "class_id": "C16",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V16-2-2",
+    "learner": "L16-2",
+    "class_id": "C16",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V16-3-1",
+    "learner": "L16-3",
+    "class_id": "C16",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V16-3-2",
+    "learner": "L16-3",
+    "class_id": "C16",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V16-4-1",
+    "learner": "L16-4",
+    "class_id": "C16",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V16-4-2",
+    "learner": "L16-4",
+    "class_id": "C16",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V16-5-1",
+    "learner": "L16-5",
+    "class_id": "C16",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V16-5-2",
+    "learner": "L16-5",
+    "class_id": "C16",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V16-6-1",
+    "learner": "L16-6",
+    "class_id": "C16",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V16-6-2",
+    "learner": "L16-6",
+    "class_id": "C16",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V16-7-1",
+    "learner": "L16-7",
+    "class_id": "C16",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V16-7-2",
+    "learner": "L16-7",
+    "class_id": "C16",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V16-8-1",
+    "learner": "L16-8",
+    "class_id": "C16",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V16-8-2",
+    "learner": "L16-8",
+    "class_id": "C16",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V17-1-1",
+    "learner": "L17-1",
+    "class_id": "C17",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V17-1-2",
+    "learner": "L17-1",
+    "class_id": "C17",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V17-2-1",
+    "learner": "L17-2",
+    "class_id": "C17",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V17-2-2",
+    "learner": "L17-2",
+    "class_id": "C17",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V17-3-1",
+    "learner": "L17-3",
+    "class_id": "C17",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V17-3-2",
+    "learner": "L17-3",
+    "class_id": "C17",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V17-4-1",
+    "learner": "L17-4",
+    "class_id": "C17",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V17-4-2",
+    "learner": "L17-4",
+    "class_id": "C17",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V17-5-1",
+    "learner": "L17-5",
+    "class_id": "C17",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V17-5-2",
+    "learner": "L17-5",
+    "class_id": "C17",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V17-6-1",
+    "learner": "L17-6",
+    "class_id": "C17",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V17-6-2",
+    "learner": "L17-6",
+    "class_id": "C17",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V17-7-1",
+    "learner": "L17-7",
+    "class_id": "C17",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V17-7-2",
+    "learner": "L17-7",
+    "class_id": "C17",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V17-8-1",
+    "learner": "L17-8",
+    "class_id": "C17",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V17-8-2",
+    "learner": "L17-8",
+    "class_id": "C17",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V18-1-1",
+    "learner": "L18-1",
+    "class_id": "C18",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V18-1-2",
+    "learner": "L18-1",
+    "class_id": "C18",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V18-2-1",
+    "learner": "L18-2",
+    "class_id": "C18",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V18-2-2",
+    "learner": "L18-2",
+    "class_id": "C18",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V18-3-1",
+    "learner": "L18-3",
+    "class_id": "C18",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V18-3-2",
+    "learner": "L18-3",
+    "class_id": "C18",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V18-4-1",
+    "learner": "L18-4",
+    "class_id": "C18",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V18-4-2",
+    "learner": "L18-4",
+    "class_id": "C18",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V18-5-1",
+    "learner": "L18-5",
+    "class_id": "C18",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V18-5-2",
+    "learner": "L18-5",
+    "class_id": "C18",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V18-6-1",
+    "learner": "L18-6",
+    "class_id": "C18",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V18-6-2",
+    "learner": "L18-6",
+    "class_id": "C18",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V18-7-1",
+    "learner": "L18-7",
+    "class_id": "C18",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V18-7-2",
+    "learner": "L18-7",
+    "class_id": "C18",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V18-8-1",
+    "learner": "L18-8",
+    "class_id": "C18",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V18-8-2",
+    "learner": "L18-8",
+    "class_id": "C18",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V19-1-1",
+    "learner": "L19-1",
+    "class_id": "C19",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V19-1-2",
+    "learner": "L19-1",
+    "class_id": "C19",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V19-2-1",
+    "learner": "L19-2",
+    "class_id": "C19",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V19-2-2",
+    "learner": "L19-2",
+    "class_id": "C19",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V19-3-1",
+    "learner": "L19-3",
+    "class_id": "C19",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V19-3-2",
+    "learner": "L19-3",
+    "class_id": "C19",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V19-4-1",
+    "learner": "L19-4",
+    "class_id": "C19",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V19-4-2",
+    "learner": "L19-4",
+    "class_id": "C19",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V19-5-1",
+    "learner": "L19-5",
+    "class_id": "C19",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V19-5-2",
+    "learner": "L19-5",
+    "class_id": "C19",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V19-6-1",
+    "learner": "L19-6",
+    "class_id": "C19",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V19-6-2",
+    "learner": "L19-6",
+    "class_id": "C19",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V19-7-1",
+    "learner": "L19-7",
+    "class_id": "C19",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V19-7-2",
+    "learner": "L19-7",
+    "class_id": "C19",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V19-8-1",
+    "learner": "L19-8",
+    "class_id": "C19",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V19-8-2",
+    "learner": "L19-8",
+    "class_id": "C19",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V20-1-1",
+    "learner": "L20-1",
+    "class_id": "C20",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V20-1-2",
+    "learner": "L20-1",
+    "class_id": "C20",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V20-2-1",
+    "learner": "L20-2",
+    "class_id": "C20",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V20-2-2",
+    "learner": "L20-2",
+    "class_id": "C20",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V20-3-1",
+    "learner": "L20-3",
+    "class_id": "C20",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V20-3-2",
+    "learner": "L20-3",
+    "class_id": "C20",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V20-4-1",
+    "learner": "L20-4",
+    "class_id": "C20",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V20-4-2",
+    "learner": "L20-4",
+    "class_id": "C20",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V20-5-1",
+    "learner": "L20-5",
+    "class_id": "C20",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V20-5-2",
+    "learner": "L20-5",
+    "class_id": "C20",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V20-6-1",
+    "learner": "L20-6",
+    "class_id": "C20",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V20-6-2",
+    "learner": "L20-6",
+    "class_id": "C20",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V20-7-1",
+    "learner": "L20-7",
+    "class_id": "C20",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V20-7-2",
+    "learner": "L20-7",
+    "class_id": "C20",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V20-8-1",
+    "learner": "L20-8",
+    "class_id": "C20",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V20-8-2",
+    "learner": "L20-8",
+    "class_id": "C20",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V21-1-1",
+    "learner": "L21-1",
+    "class_id": "C21",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V21-1-2",
+    "learner": "L21-1",
+    "class_id": "C21",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V21-2-1",
+    "learner": "L21-2",
+    "class_id": "C21",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V21-2-2",
+    "learner": "L21-2",
+    "class_id": "C21",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V21-3-1",
+    "learner": "L21-3",
+    "class_id": "C21",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V21-3-2",
+    "learner": "L21-3",
+    "class_id": "C21",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V21-4-1",
+    "learner": "L21-4",
+    "class_id": "C21",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V21-4-2",
+    "learner": "L21-4",
+    "class_id": "C21",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V21-5-1",
+    "learner": "L21-5",
+    "class_id": "C21",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V21-5-2",
+    "learner": "L21-5",
+    "class_id": "C21",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V21-6-1",
+    "learner": "L21-6",
+    "class_id": "C21",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V21-6-2",
+    "learner": "L21-6",
+    "class_id": "C21",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V21-7-1",
+    "learner": "L21-7",
+    "class_id": "C21",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V21-7-2",
+    "learner": "L21-7",
+    "class_id": "C21",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V21-8-1",
+    "learner": "L21-8",
+    "class_id": "C21",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V21-8-2",
+    "learner": "L21-8",
+    "class_id": "C21",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V22-1-1",
+    "learner": "L22-1",
+    "class_id": "C22",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V22-1-2",
+    "learner": "L22-1",
+    "class_id": "C22",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V22-2-1",
+    "learner": "L22-2",
+    "class_id": "C22",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V22-2-2",
+    "learner": "L22-2",
+    "class_id": "C22",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V22-3-1",
+    "learner": "L22-3",
+    "class_id": "C22",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V22-3-2",
+    "learner": "L22-3",
+    "class_id": "C22",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V22-4-1",
+    "learner": "L22-4",
+    "class_id": "C22",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V22-4-2",
+    "learner": "L22-4",
+    "class_id": "C22",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V22-5-1",
+    "learner": "L22-5",
+    "class_id": "C22",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V22-5-2",
+    "learner": "L22-5",
+    "class_id": "C22",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V22-6-1",
+    "learner": "L22-6",
+    "class_id": "C22",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V22-6-2",
+    "learner": "L22-6",
+    "class_id": "C22",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V22-7-1",
+    "learner": "L22-7",
+    "class_id": "C22",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V22-7-2",
+    "learner": "L22-7",
+    "class_id": "C22",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V22-8-1",
+    "learner": "L22-8",
+    "class_id": "C22",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V22-8-2",
+    "learner": "L22-8",
+    "class_id": "C22",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V23-1-1",
+    "learner": "L23-1",
+    "class_id": "C23",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V23-1-2",
+    "learner": "L23-1",
+    "class_id": "C23",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V23-2-1",
+    "learner": "L23-2",
+    "class_id": "C23",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V23-2-2",
+    "learner": "L23-2",
+    "class_id": "C23",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V23-3-1",
+    "learner": "L23-3",
+    "class_id": "C23",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V23-3-2",
+    "learner": "L23-3",
+    "class_id": "C23",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V23-4-1",
+    "learner": "L23-4",
+    "class_id": "C23",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V23-4-2",
+    "learner": "L23-4",
+    "class_id": "C23",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V23-5-1",
+    "learner": "L23-5",
+    "class_id": "C23",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V23-5-2",
+    "learner": "L23-5",
+    "class_id": "C23",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V23-6-1",
+    "learner": "L23-6",
+    "class_id": "C23",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V23-6-2",
+    "learner": "L23-6",
+    "class_id": "C23",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V23-7-1",
+    "learner": "L23-7",
+    "class_id": "C23",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V23-7-2",
+    "learner": "L23-7",
+    "class_id": "C23",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V23-8-1",
+    "learner": "L23-8",
+    "class_id": "C23",
+    "stage": 1,
+    "content": "史",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V23-8-2",
+    "learner": "L23-8",
+    "class_id": "C23",
+    "stage": 2,
+    "content": "乐",
+    "date": "2027-03-08",
+    "present": false
+  },
+  {
+    "id": "V24-1-1",
+    "learner": "L24-1",
+    "class_id": "C24",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V24-1-2",
+    "learner": "L24-1",
+    "class_id": "C24",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V24-2-1",
+    "learner": "L24-2",
+    "class_id": "C24",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V24-2-2",
+    "learner": "L24-2",
+    "class_id": "C24",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V24-3-1",
+    "learner": "L24-3",
+    "class_id": "C24",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V24-3-2",
+    "learner": "L24-3",
+    "class_id": "C24",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V24-4-1",
+    "learner": "L24-4",
+    "class_id": "C24",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V24-4-2",
+    "learner": "L24-4",
+    "class_id": "C24",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V24-5-1",
+    "learner": "L24-5",
+    "class_id": "C24",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V24-5-2",
+    "learner": "L24-5",
+    "class_id": "C24",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V24-6-1",
+    "learner": "L24-6",
+    "class_id": "C24",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V24-6-2",
+    "learner": "L24-6",
+    "class_id": "C24",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V24-7-1",
+    "learner": "L24-7",
+    "class_id": "C24",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": true
+  },
+  {
+    "id": "V24-7-2",
+    "learner": "L24-7",
+    "class_id": "C24",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": true
+  },
+  {
+    "id": "V24-8-1",
+    "learner": "L24-8",
+    "class_id": "C24",
+    "stage": 1,
+    "content": "乐",
+    "date": "2027-03-01",
+    "present": false
+  },
+  {
+    "id": "V24-8-2",
+    "learner": "L24-8",
+    "class_id": "C24",
+    "stage": 2,
+    "content": "史",
+    "date": "2027-03-08",
+    "present": false
+  }
+]

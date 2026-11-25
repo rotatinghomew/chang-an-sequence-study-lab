@@ -1,0 +1,770 @@
+[
+  {
+    "id": "L01-1",
+    "class_id": "C01"
+  },
+  {
+    "id": "L01-2",
+    "class_id": "C01"
+  },
+  {
+    "id": "L01-3",
+    "class_id": "C01"
+  },
+  {
+    "id": "L01-4",
+    "class_id": "C01"
+  },
+  {
+    "id": "L01-5",
+    "class_id": "C01"
+  },
+  {
+    "id": "L01-6",
+    "class_id": "C01"
+  },
+  {
+    "id": "L01-7",
+    "class_id": "C01"
+  },
+  {
+    "id": "L01-8",
+    "class_id": "C01"
+  },
+  {
+    "id": "L02-1",
+    "class_id": "C02"
+  },
+  {
+    "id": "L02-2",
+    "class_id": "C02"
+  },
+  {
+    "id": "L02-3",
+    "class_id": "C02"
+  },
+  {
+    "id": "L02-4",
+    "class_id": "C02"
+  },
+  {
+    "id": "L02-5",
+    "class_id": "C02"
+  },
+  {
+    "id": "L02-6",
+    "class_id": "C02"
+  },
+  {
+    "id": "L02-7",
+    "class_id": "C02"
+  },
+  {
+    "id": "L02-8",
+    "class_id": "C02"
+  },
+  {
+    "id": "L03-1",
+    "class_id": "C03"
+  },
+  {
+    "id": "L03-2",
+    "class_id": "C03"
+  },
+  {
+    "id": "L03-3",
+    "class_id": "C03"
+  },
+  {
+    "id": "L03-4",
+    "class_id": "C03"
+  },
+  {
+    "id": "L03-5",
+    "class_id": "C03"
+  },
+  {
+    "id": "L03-6",
+    "class_id": "C03"
+  },
+  {
+    "id": "L03-7",
+    "class_id": "C03"
+  },
+  {
+    "id": "L03-8",
+    "class_id": "C03"
+  },
+  {
+    "id": "L04-1",
+    "class_id": "C04"
+  },
+  {
+    "id": "L04-2",
+    "class_id": "C04"
+  },
+  {
+    "id": "L04-3",
+    "class_id": "C04"
+  },
+  {
+    "id": "L04-4",
+    "class_id": "C04"
+  },
+  {
+    "id": "L04-5",
+    "class_id": "C04"
+  },
+  {
+    "id": "L04-6",
+    "class_id": "C04"
+  },
+  {
+    "id": "L04-7",
+    "class_id": "C04"
+  },
+  {
+    "id": "L04-8",
+    "class_id": "C04"
+  },
+  {
+    "id": "L05-1",
+    "class_id": "C05"
+  },
+  {
+    "id": "L05-2",
+    "class_id": "C05"
+  },
+  {
+    "id": "L05-3",
+    "class_id": "C05"
+  },
+  {
+    "id": "L05-4",
+    "class_id": "C05"
+  },
+  {
+    "id": "L05-5",
+    "class_id": "C05"
+  },
+  {
+    "id": "L05-6",
+    "class_id": "C05"
+  },
+  {
+    "id": "L05-7",
+    "class_id": "C05"
+  },
+  {
+    "id": "L05-8",
+    "class_id": "C05"
+  },
+  {
+    "id": "L06-1",
+    "class_id": "C06"
+  },
+  {
+    "id": "L06-2",
+    "class_id": "C06"
+  },
+  {
+    "id": "L06-3",
+    "class_id": "C06"
+  },
+  {
+    "id": "L06-4",
+    "class_id": "C06"
+  },
+  {
+    "id": "L06-5",
+    "class_id": "C06"
+  },
+  {
+    "id": "L06-6",
+    "class_id": "C06"
+  },
+  {
+    "id": "L06-7",
+    "class_id": "C06"
+  },
+  {
+    "id": "L06-8",
+    "class_id": "C06"
+  },
+  {
+    "id": "L07-1",
+    "class_id": "C07"
+  },
+  {
+    "id": "L07-2",
+    "class_id": "C07"
+  },
+  {
+    "id": "L07-3",
+    "class_id": "C07"
+  },
+  {
+    "id": "L07-4",
+    "class_id": "C07"
+  },
+  {
+    "id": "L07-5",
+    "class_id": "C07"
+  },
+  {
+    "id": "L07-6",
+    "class_id": "C07"
+  },
+  {
+    "id": "L07-7",
+    "class_id": "C07"
+  },
+  {
+    "id": "L07-8",
+    "class_id": "C07"
+  },
+  {
+    "id": "L08-1",
+    "class_id": "C08"
+  },
+  {
+    "id": "L08-2",
+    "class_id": "C08"
+  },
+  {
+    "id": "L08-3",
+    "class_id": "C08"
+  },
+  {
+    "id": "L08-4",
+    "class_id": "C08"
+  },
+  {
+    "id": "L08-5",
+    "class_id": "C08"
+  },
+  {
+    "id": "L08-6",
+    "class_id": "C08"
+  },
+  {
+    "id": "L08-7",
+    "class_id": "C08"
+  },
+  {
+    "id": "L08-8",
+    "class_id": "C08"
+  },
+  {
+    "id": "L09-1",
+    "class_id": "C09"
+  },
+  {
+    "id": "L09-2",
+    "class_id": "C09"
+  },
+  {
+    "id": "L09-3",
+    "class_id": "C09"
+  },
+  {
+    "id": "L09-4",
+    "class_id": "C09"
+  },
+  {
+    "id": "L09-5",
+    "class_id": "C09"
+  },
+  {
+    "id": "L09-6",
+    "class_id": "C09"
+  },
+  {
+    "id": "L09-7",
+    "class_id": "C09"
+  },
+  {
+    "id": "L09-8",
+    "class_id": "C09"
+  },
+  {
+    "id": "L10-1",
+    "class_id": "C10"
+  },
+  {
+    "id": "L10-2",
+    "class_id": "C10"
+  },
+  {
+    "id": "L10-3",
+    "class_id": "C10"
+  },
+  {
+    "id": "L10-4",
+    "class_id": "C10"
+  },
+  {
+    "id": "L10-5",
+    "class_id": "C10"
+  },
+  {
+    "id": "L10-6",
+    "class_id": "C10"
+  },
+  {
+    "id": "L10-7",
+    "class_id": "C10"
+  },
+  {
+    "id": "L10-8",
+    "class_id": "C10"
+  },
+  {
+    "id": "L11-1",
+    "class_id": "C11"
+  },
+  {
+    "id": "L11-2",
+    "class_id": "C11"
+  },
+  {
+    "id": "L11-3",
+    "class_id": "C11"
+  },
+  {
+    "id": "L11-4",
+    "class_id": "C11"
+  },
+  {
+    "id": "L11-5",
+    "class_id": "C11"
+  },
+  {
+    "id": "L11-6",
+    "class_id": "C11"
+  },
+  {
+    "id": "L11-7",
+    "class_id": "C11"
+  },
+  {
+    "id": "L11-8",
+    "class_id": "C11"
+  },
+  {
+    "id": "L12-1",
+    "class_id": "C12"
+  },
+  {
+    "id": "L12-2",
+    "class_id": "C12"
+  },
+  {
+    "id": "L12-3",
+    "class_id": "C12"
+  },
+  {
+    "id": "L12-4",
+    "class_id": "C12"
+  },
+  {
+    "id": "L12-5",
+    "class_id": "C12"
+  },
+  {
+    "id": "L12-6",
+    "class_id": "C12"
+  },
+  {
+    "id": "L12-7",
+    "class_id": "C12"
+  },
+  {
+    "id": "L12-8",
+    "class_id": "C12"
+  },
+  {
+    "id": "L13-1",
+    "class_id": "C13"
+  },
+  {
+    "id": "L13-2",
+    "class_id": "C13"
+  },
+  {
+    "id": "L13-3",
+    "class_id": "C13"
+  },
+  {
+    "id": "L13-4",
+    "class_id": "C13"
+  },
+  {
+    "id": "L13-5",
+    "class_id": "C13"
+  },
+  {
+    "id": "L13-6",
+    "class_id": "C13"
+  },
+  {
+    "id": "L13-7",
+    "class_id": "C13"
+  },
+  {
+    "id": "L13-8",
+    "class_id": "C13"
+  },
+  {
+    "id": "L14-1",
+    "class_id": "C14"
+  },
+  {
+    "id": "L14-2",
+    "class_id": "C14"
+  },
+  {
+    "id": "L14-3",
+    "class_id": "C14"
+  },
+  {
+    "id": "L14-4",
+    "class_id": "C14"
+  },
+  {
+    "id": "L14-5",
+    "class_id": "C14"
+  },
+  {
+    "id": "L14-6",
+    "class_id": "C14"
+  },
+  {
+    "id": "L14-7",
+    "class_id": "C14"
+  },
+  {
+    "id": "L14-8",
+    "class_id": "C14"
+  },
+  {
+    "id": "L15-1",
+    "class_id": "C15"
+  },
+  {
+    "id": "L15-2",
+    "class_id": "C15"
+  },
+  {
+    "id": "L15-3",
+    "class_id": "C15"
+  },
+  {
+    "id": "L15-4",
+    "class_id": "C15"
+  },
+  {
+    "id": "L15-5",
+    "class_id": "C15"
+  },
+  {
+    "id": "L15-6",
+    "class_id": "C15"
+  },
+  {
+    "id": "L15-7",
+    "class_id": "C15"
+  },
+  {
+    "id": "L15-8",
+    "class_id": "C15"
+  },
+  {
+    "id": "L16-1",
+    "class_id": "C16"
+  },
+  {
+    "id": "L16-2",
+    "class_id": "C16"
+  },
+  {
+    "id": "L16-3",
+    "class_id": "C16"
+  },
+  {
+    "id": "L16-4",
+    "class_id": "C16"
+  },
+  {
+    "id": "L16-5",
+    "class_id": "C16"
+  },
+  {
+    "id": "L16-6",
+    "class_id": "C16"
+  },
+  {
+    "id": "L16-7",
+    "class_id": "C16"
+  },
+  {
+    "id": "L16-8",
+    "class_id": "C16"
+  },
+  {
+    "id": "L17-1",
+    "class_id": "C17"
+  },
+  {
+    "id": "L17-2",
+    "class_id": "C17"
+  },
+  {
+    "id": "L17-3",
+    "class_id": "C17"
+  },
+  {
+    "id": "L17-4",
+    "class_id": "C17"
+  },
+  {
+    "id": "L17-5",
+    "class_id": "C17"
+  },
+  {
+    "id": "L17-6",
+    "class_id": "C17"
+  },
+  {
+    "id": "L17-7",
+    "class_id": "C17"
+  },
+  {
+    "id": "L17-8",
+    "class_id": "C17"
+  },
+  {
+    "id": "L18-1",
+    "class_id": "C18"
+  },
+  {
+    "id": "L18-2",
+    "class_id": "C18"
+  },
+  {
+    "id": "L18-3",
+    "class_id": "C18"
+  },
+  {
+    "id": "L18-4",
+    "class_id": "C18"
+  },
+  {
+    "id": "L18-5",
+    "class_id": "C18"
+  },
+  {
+    "id": "L18-6",
+    "class_id": "C18"
+  },
+  {
+    "id": "L18-7",
+    "class_id": "C18"
+  },
+  {
+    "id": "L18-8",
+    "class_id": "C18"
+  },
+  {
+    "id": "L19-1",
+    "class_id": "C19"
+  },
+  {
+    "id": "L19-2",
+    "class_id": "C19"
+  },
+  {
+    "id": "L19-3",
+    "class_id": "C19"
+  },
+  {
+    "id": "L19-4",
+    "class_id": "C19"
+  },
+  {
+    "id": "L19-5",
+    "class_id": "C19"
+  },
+  {
+    "id": "L19-6",
+    "class_id": "C19"
+  },
+  {
+    "id": "L19-7",
+    "class_id": "C19"
+  },
+  {
+    "id": "L19-8",
+    "class_id": "C19"
+  },
+  {
+    "id": "L20-1",
+    "class_id": "C20"
+  },
+  {
+    "id": "L20-2",
+    "class_id": "C20"
+  },
+  {
+    "id": "L20-3",
+    "class_id": "C20"
+  },
+  {
+    "id": "L20-4",
+    "class_id": "C20"
+  },
+  {
+    "id": "L20-5",
+    "class_id": "C20"
+  },
+  {
+    "id": "L20-6",
+    "class_id": "C20"
+  },
+  {
+    "id": "L20-7",
+    "class_id": "C20"
+  },
+  {
+    "id": "L20-8",
+    "class_id": "C20"
+  },
+  {
+    "id": "L21-1",
+    "class_id": "C21"
+  },
+  {
+    "id": "L21-2",
+    "class_id": "C21"
+  },
+  {
+    "id": "L21-3",
+    "class_id": "C21"
+  },
+  {
+    "id": "L21-4",
+    "class_id": "C21"
+  },
+  {
+    "id": "L21-5",
+    "class_id": "C21"
+  },
+  {
+    "id": "L21-6",
+    "class_id": "C21"
+  },
+  {
+    "id": "L21-7",
+    "class_id": "C21"
+  },
+  {
+    "id": "L21-8",
+    "class_id": "C21"
+  },
+  {
+    "id": "L22-1",
+    "class_id": "C22"
+  },
+  {
+    "id": "L22-2",
+    "class_id": "C22"
+  },
+  {
+    "id": "L22-3",
+    "class_id": "C22"
+  },
+  {
+    "id": "L22-4",
+    "class_id": "C22"
+  },
+  {
+    "id": "L22-5",
+    "class_id": "C22"
+  },
+  {
+    "id": "L22-6",
+    "class_id": "C22"
+  },
+  {
+    "id": "L22-7",
+    "class_id": "C22"
+  },
+  {
+    "id": "L22-8",
+    "class_id": "C22"
+  },
+  {
+    "id": "L23-1",
+    "class_id": "C23"
+  },
+  {
+    "id": "L23-2",
+    "class_id": "C23"
+  },
+  {
+    "id": "L23-3",
+    "class_id": "C23"
+  },
+  {
+    "id": "L23-4",
+    "class_id": "C23"
+  },
+  {
+    "id": "L23-5",
+    "class_id": "C23"
+  },
+  {
+    "id": "L23-6",
+    "class_id": "C23"
+  },
+  {
+    "id": "L23-7",
+    "class_id": "C23"
+  },
+  {
+    "id": "L23-8",
+    "class_id": "C23"
+  },
+  {
+    "id": "L24-1",
+    "class_id": "C24"
+  },
+  {
+    "id": "L24-2",
+    "class_id": "C24"
+  },
+  {
+    "id": "L24-3",
+    "class_id": "C24"
+  },
+  {
+    "id": "L24-4",
+    "class_id": "C24"
+  },
+  {
+    "id": "L24-5",
+    "class_id": "C24"
+  },
+  {
+    "id": "L24-6",
+    "class_id": "C24"
+  },
+  {
+    "id": "L24-7",
+    "class_id": "C24"
+  },
+  {
+    "id": "L24-8",
+    "class_id": "C24"
+  }
+]
